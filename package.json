@@ -41,7 +41,7 @@
   },
   "dependencies": {
     "@aws-sdk/client-polly": "^3.1101.0",
-    "dotenv": "^17.4.2",
+    "dotenv": "^18.0.3",
     "henkan": "^3.0.7"
   },
   "devDependencies": {
